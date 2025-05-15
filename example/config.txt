@@ -1,0 +1,2 @@
+Prefix plugins/BagTrain/example/
+Plugin BagTrain inputfile parameters.train.txt outputfile output.rds
